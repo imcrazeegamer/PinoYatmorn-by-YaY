@@ -16,7 +16,7 @@ TagManager:
   - Player
   - Ground
   - Backround
-  - 
+  - WorldObjects
   - 
   - 
   - 
@@ -49,4 +49,7 @@ TagManager:
     locked: 0
   - name: Forground
     uniqueID: 3141874597
+    locked: 0
+  - name: WorldObjects
+    uniqueID: 4070312799
     locked: 0
