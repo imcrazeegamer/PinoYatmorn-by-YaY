@@ -19,25 +19,41 @@ Platform assembly: D:\My Programs\GitHub\PinoYatmorn-by-YaY\Pino Yatmorn\Builds\
 Loading D:\My Programs\GitHub\PinoYatmorn-by-YaY\Pino Yatmorn\Builds\Windows\X64\PinoYatmornX64_0.0.0_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
 Platform assembly: D:\My Programs\GitHub\PinoYatmorn-by-YaY\Pino Yatmorn\Builds\Windows\X64\PinoYatmornX64_0.0.0_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
 Loading D:\My Programs\GitHub\PinoYatmorn-by-YaY\Pino Yatmorn\Builds\Windows\X64\PinoYatmornX64_0.0.0_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
-- Completed reload, in  0.020 seconds
+- Completed reload, in  0.015 seconds
 Platform assembly: D:\My Programs\GitHub\PinoYatmorn-by-YaY\Pino Yatmorn\Builds\Windows\X64\PinoYatmornX64_0.0.0_Data\Managed\System.Core.dll (this message is harmless)
 Platform assembly: D:\My Programs\GitHub\PinoYatmorn-by-YaY\Pino Yatmorn\Builds\Windows\X64\PinoYatmornX64_0.0.0_Data\Managed\System.dll (this message is harmless)
 desktop: 1920x1080 60Hz; virtual: 2944x1080 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 0.806673 ms
-Dialog has ended
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+UnloadTime: 0.766855 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.213156 ms
 
-Dialog has ended
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 308.
+Total: 0.213047 ms (FindLiveObjects: 0.022755 ms CreateObjectMapping: 0.007964 ms MarkObjects: 0.127714 ms  DeleteObjects: 0.048924 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.231820 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 424.
+Total: 0.240069 ms (FindLiveObjects: 0.025599 ms CreateObjectMapping: 0.008248 ms MarkObjects: 0.163838 ms  DeleteObjects: 0.042097 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.295250 ms
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 308.
+Total: 0.169527 ms (FindLiveObjects: 0.015359 ms CreateObjectMapping: 0.007679 ms MarkObjects: 0.103536 ms  DeleteObjects: 0.042666 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.243766 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 424.
+Total: 0.209349 ms (FindLiveObjects: 0.022186 ms CreateObjectMapping: 0.008248 ms MarkObjects: 0.151038 ms  DeleteObjects: 0.027021 ms)
 
 Dialog has ended
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
 Setting up 1 worker threads for Enlighten.
-  Thread -> id: ec8 -> priority: 1 
+  Thread -> id: a00 -> priority: 1 

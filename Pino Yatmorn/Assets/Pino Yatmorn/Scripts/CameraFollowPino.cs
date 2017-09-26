@@ -6,10 +6,18 @@ public class CameraFollowPino : MonoBehaviour {
     Transform player;
 
     float offsetX,offsetY;
-
+    static bool cameraExists;
     // Use this for initialization
     void Start()
     {
+        if (!cameraExists)
+        {
+            cameraExists = true;
+            DontDestroyOnLoad(transform.gameObject);
+        }
+        else
+            Destroy(gameObject);
+        
         GameObject player_go = GameObject.FindGameObjectWithTag("Player");
 
         if (player_go == null)
